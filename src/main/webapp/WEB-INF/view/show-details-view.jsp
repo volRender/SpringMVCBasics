@@ -25,6 +25,7 @@
 
 </ul>
 <h2>Your phone number: </h2> ${employee.phoneNumber}
+<h2>Your email: </h2> ${employee.email}
 </body>
 
 </html>
